@@ -1,0 +1,22 @@
+ /*Durvesh Kumar & Vivek Saini*/
+
+/* footer decoration starte*/
+
+.footer{
+	background-color:#0a2119;
+	margin-bottom:10%;
+}
+.myheading{
+	color:#7597b9;
+}
+.row{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+a{
+	color:#7597b9;
+}
+a:hover{
+	text-decoration: none;
+}
+ /*footer decoration close*/
